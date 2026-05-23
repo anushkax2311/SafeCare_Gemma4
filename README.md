@@ -49,20 +49,16 @@ Mere chest mein ganthi hai lekin pati doctor ke paas nahi jaane deta
 }
 ```
 
----
 
-# Demo Video
-
-Add your YouTube link here.
 
 ---
 
 # Live Demo
 
-Add your Gradio demo link here.
+https://6658bd9d8ff68dec63.gradio.live/
 
 ---
 
 # Kaggle Notebook
 
-Add your Kaggle notebook link here.
+https://www.kaggle.com/code/anushkapatel9359/safecare-ai-gemma4-finetuning
